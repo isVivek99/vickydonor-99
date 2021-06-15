@@ -1,5 +1,5 @@
-### Hi there 👋
 ### My Name is Vivek and I am a frontend-developer
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)]
 
 <!-- [](url)**vickydonor-99/vickydonor-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ## I like building stuff and am always interested in the visual side of things and how they work..  
