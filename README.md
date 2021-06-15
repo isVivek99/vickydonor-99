@@ -1,5 +1,5 @@
 ### My Name is Vivek and I am a frontend-developer
-[![Twitter Follow](https://img.shields.io/twitter/follow/VivekLokhande99?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%VivekLokhande-99&screen_name=VivekLokhande-99)
+[![Twitter Follow](https://img.shields.io/twitter/follow/VivekLokhande99?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/VivekLokhande99)
 
 <!-- [](url)**vickydonor-99/vickydonor-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ## I like building stuff and am always interested in the visual side of things and how they work..  
