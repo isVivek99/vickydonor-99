@@ -19,7 +19,7 @@
 
 
 <details>
-<summary>Some fun facts about me 😅 -</summary>
+<summary>Some fun facts about me -</summary>
 
 - I like reading books related to economics, evolutionary biology.
 - Love to discuss about react, fitness, nutrition, books .
