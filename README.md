@@ -5,7 +5,7 @@
 ## I like building stuff and am always interested in the visual side of things and how they work..  
 
 - 🔭 I’m currently working on [Keep notes]
-- 
+
 - 🌱 I’m currently learning and diving deep into **[React](https://reactjs.org/docs/hello-world.html) and Javascript**.
 
 - 📝 I write my dev blogs at **[hashnode.](https://vivek99.hashnode.dev/)**
