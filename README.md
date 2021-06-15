@@ -1,16 +1,21 @@
 ### Hi there 👋
+### My Name is Vivek and I am a frontend-developer
 
-<!--
-**vickydonor-99/vickydonor-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- [](url)**vickydonor-99/vickydonor-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+## I like building stuff and am always interested in the visual side of things and how they work..  
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Keep notes]
+- 
+- 🌱 I’m currently learning and diving deep into **[React](https://reactjs.org/docs/hello-world.html) and Javascript**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📝 I write my dev blogs at **[hashnode.](https://vivek99.hashnode.dev/)**
+- 📫 How to reach me:[email](vivek.lokhande2801@gmail.com) ...
+
+
+<details>
+<summary>Some fun facts about me 😅 -</summary>
+
+- I like reading books related to economics, evolutionary biology.
+- Love to discuss react and ufc .
+</details>
+
