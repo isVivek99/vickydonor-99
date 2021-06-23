@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **[Keep notes](https://github.com/vickydonor-99/notes-app)**
 
-- 🌱 I’m currently learning and diving deep into **[React](https://reactjs.org/docs/hello-world.html)** and [Javascript](https://tc39.es/ecma262/)**.
+- 🌱 I’m currently learning and diving deep into **[React](https://reactjs.org/docs/hello-world.html)** and **[Javascript](https://tc39.es/ecma262/)**.
 
 - 📝 I write my dev blogs at **[hashnode.](https://vivek99.hashnode.dev/)**
 
