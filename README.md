@@ -1,6 +1,6 @@
 ### My Name is Vivek and I am a frontend-developer
 
-[![Github](https://img.shields.io/github/followers/vickydonor-99?label=Followers&logo=Github)](https://github.com/vickydonor-99)
+ ![](https://visitor-badge.laobi.icu/badge?page_id=vickydonor-99.vickydonr-99) [![Github](https://img.shields.io/github/followers/vickydonor-99?label=Followers&logo=Github)](https://github.com/vickydonor-99)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/VivekLokhande99?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/VivekLokhande99)
 
