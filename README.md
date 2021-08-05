@@ -7,6 +7,8 @@
 <!-- [](url)**vickydonor-99/vickydonor-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ## I like building stuff and am always interested in the visual side of things and how they work..  
 
+- software engineer @ **[Geekyants]**
+
 - 🔭 I’m currently working on **[Keep notes](https://github.com/vickydonor-99/notes-app)**
 
 - 🌱 I’m currently learning and diving deep into **[React](https://reactjs.org/docs/hello-world.html)** and **[Javascript](https://tc39.es/ecma262/)**.
